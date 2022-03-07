@@ -1,1 +1,1 @@
-github.com/tranvanle/asd/
+https://github.com/tranvanle/asd/
